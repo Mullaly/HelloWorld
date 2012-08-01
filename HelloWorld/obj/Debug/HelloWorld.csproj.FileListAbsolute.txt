@@ -1,0 +1,5 @@
+c:\users\muralidharan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll
+c:\users\muralidharan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+c:\users\muralidharan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+c:\users\muralidharan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\muralidharan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
